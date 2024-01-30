@@ -1,20 +1,27 @@
-<img src="./Klark Banner/275x120.png" alt="Klark banner" />
+<img src="./.github/assets/klark-banner-275x120.png" alt="Klark banner" />
 
 # Klark Assets
-An assets for and a part of **The Klark Project**.
+An assets for **The Klark Project**.
 
 ![License](https://img.shields.io/github/license/krystejj/klark-assets?label=License)
+![Latest Release](https://img.shields.io/github/v/release/krystejj/klark-assets?label=Latest%20Release)
 ![Issues](https://img.shields.io/github/issues/krystejj/klark-assets?label=Issues)
 ![Pull Requests](https://img.shields.io/github/issues-pr/krystejj/klark-assets?label=Pull%20Requests)
 ![Discussions](https://img.shields.io/github/discussions/krystejj/klark-assets?label=Discussions)
 
-This repo contains an assets (logos, banners, icons) for **The Klark Project**.
+This repo serves as a place for an assets (logos, banners, icons) used in **The Klark Project**.
+
+## 📖 Changelog and Versioning
+All notable changes to this project will be documented in [the changelog file](CHANGELOG.md). The format of that file is based on [Keep a Changelog 1.1.0](https://keepachangelog.com/en/1.1.0/).
+
+This project adheres to [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html).
 
 ## 🙏 Used Projects and Credits
-This is a list of projects used in development of this frontend:
-- [Inkscape](https://inkscape.org/) - vector graphics editor.
+This is a list of projects used in creation of these assets:
+- [Inkscape](https://inkscape.org/) - free and open-source vector graphics editor.
+- [GIMP](https://www.gimp.org/) - free and open-source raster graphics editor.
 
 💗 Big thanks to the creators and all contributors of these projects.
 
 ## 📜 License
-Everything in this repo is provided under the terms of the **GNU General Public License v3.0**, a free and open-source license. For more information, please see the [license file](LICENSE.md).
+This project is provided under the terms of the **Creative Commons Attribution-ShareAlike 4.0 International**, a free license. For more information, see the [license file](LICENSE.md).
