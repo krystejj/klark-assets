@@ -1,1 +1,6 @@
+# Exported SVGs
+Klark Branding/*.png
+
+# OS Files
 .DS_Store
+Thumbs.db
