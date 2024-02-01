@@ -11,10 +11,12 @@ An assets for **The Klark Project**.
 
 This repo serves as a place for an assets (logos, banners, icons) used in **The Klark Project**.
 
-## 📖 Changelog and Versioning
-All notable changes to this project will be documented in [the changelog file](CHANGELOG.md). The format of that file is based on [Keep a Changelog 1.1.0](https://keepachangelog.com/en/1.1.0/).
+## 📖 Project Management
+All notable changes to this project will be documented in the [changelog file](CHANGELOG.md). The format of that file is based on [Keep a Changelog 1.1.0](https://keepachangelog.com/en/1.1.0/).
 
 This project adheres to [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html).
+
+If you would find any issue with those assets or you have an idea about something, you can file a report using [issues page](https://github.com/krystejj/klark-assets/issues) in this repo or create a [pull request](https://github.com/krystejj/klark-assets/pulls). [Discussions](https://github.com/krystejj/klark-assets/discussions) are also available.
 
 ## 🙏 Used Projects and Credits
 This is a list of projects used in creation of these assets:
