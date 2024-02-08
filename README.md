@@ -1,4 +1,4 @@
-<img src="./.github/assets/klark-banner-275x120.png" alt="Klark banner" />
+<img src="./.github/assets/klark-banner-295x120.png" alt="Klark banner" />
 
 # Klark Assets
 An assets for **The Klark Project**.
