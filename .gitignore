@@ -1,5 +1,5 @@
 # Exported SVGs
-/Klark Branding/*.png
+/Klark Branding/**/*.png
 
 # OS Files
 .DS_Store
